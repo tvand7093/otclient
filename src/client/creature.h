@@ -27,6 +27,7 @@
 #include "outfit.h"
 #include "tile.h"
 #include "mapview.h"
+
 #include <framework/core/scheduledevent.h>
 #include <framework/core/declarations.h>
 #include <framework/core/timer.h>

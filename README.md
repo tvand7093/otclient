@@ -40,6 +40,8 @@ In short, if you need to compile OTClient, follow these tutorials:
 * [Compiling on Windows](https://github.com/edubart/otclient/wiki/Compiling-on-Windows)
 * [Compiling on Linux](https://github.com/edubart/otclient/wiki/Compiling-on-Linux)
 
+### FOR VISUAL STUDIO
+Unzip the required libraries into the otclient/vs12 folder, so as to maintian the project references.
 
 
 ### Need help?
