@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ImportGroup Label="PropertySheets" />
+  <PropertyGroup Label="UserMacros">
+    <ProjectSources>..\src</ProjectSources>
+    <ExternalLibs>$(ProjectDir)otclient-msvc13-libs</ExternalLibs>
+    <BoostVersion>1_55_0</BoostVersion>
+    <BoostDir>$(ExternalLibs)\boost_$(BoostVersion)</BoostDir>
+    <BoostInclude>$(BoostDir)\include</BoostInclude>
+    <BoostLibs>$(BoostDir)\lib</BoostLibs>
+    <GlewVersion>1.10.0</GlewVersion>
+    <GlewDir>$(ExternalLibs)\glew-$(GlewVersion)</GlewDir>
+    <GlewIncludes>$(GlewDir)\include</GlewIncludes>
+    <GlewLibs>$(GlewDir)\lib</GlewLibs>
+    <OggVersion>1.3.1</OggVersion>
+    <OggDir>$(ExternalLibs)\libogg-$(OggVersion)</OggDir>
+    <OggIncludes>$(OggDir)\include</OggIncludes>
+    <OggLibs>$(OggDir)\lib</OggLibs>
+    <VorbisVersion>1.3.3</VorbisVersion>
+    <VorbisDir>$(ExternalLibs)\libvorbis-$(VorbisVersion)</VorbisDir>
+    <VorbisIncludes>$(VorbisDir)\include</VorbisIncludes>
+    <VorbisLibs>$(VorbisDir)\lib</VorbisLibs>
+    <LuaVersion>2.0.2</LuaVersion>
+    <LuaDir>$(ExternalLibs)\LuaJIT-$(LuaVersion)</LuaDir>
+    <LuaIncludes>$(LuaDir)\include</LuaIncludes>
+    <LuaLibs>$(LuaDir)\lib</LuaLibs>
+    <OpenALDir>$(ExternalLibs)\OpenAL</OpenALDir>
+    <OpenALIncludes>$(OpenALDir)\include</OpenALIncludes>
+    <OpenALLibs>$(OpenALDir)\lib</OpenALLibs>
+    <OpenSSLVersion>1.0.1e</OpenSSLVersion>
+    <OpenSSLDir>$(ExternalLibs)\OpenSSL-$(OpenSSLVersion)</OpenSSLDir>
+    <OpenSSLLibs>$(OpenSSLDir)\lib</OpenSSLLibs>
+    <OpenSSLIncludes>$(OpenSSLDir)\include</OpenSSLIncludes>
+    <PhsyfsVersion>2.0.3</PhsyfsVersion>
+    <PhysfsDir>$(ExernalSources)\physfs-$(PhysfsVersion)</PhysfsDir>
+    <PhysfsIncludes>$(PhysfsDir)\include</PhysfsIncludes>
+    <PhysfsLibs>$(PhysfsDir)\lib</PhysfsLibs>
+    <ZLibVersion>1.2.5</ZLibVersion>
+    <ZLibDir>$(ExternalLibs)\zlib-$(ZLibVersion)</ZLibDir>
+    <ZLibLibs>$(ZLibDir)\lib</ZLibLibs>
+    <ZLibIncludes>$(ZLibDir)\include</ZLibIncludes>
+  </PropertyGroup>
+  <PropertyGroup />
+  <ItemDefinitionGroup />
+  <ItemGroup>
+    <BuildMacro Include="ProjectSources">
+      <Value>$(ProjectSources)</Value>
+      <EnvironmentVariable>true</EnvironmentVariable>
+    </BuildMacro>
+    <BuildMacro Include="ExternalLibs">
+      <Value>$(ExternalLibs)</Value>
+      <EnvironmentVariable>true</EnvironmentVariable>
+    </BuildMacro>
+    <BuildMacro Include="BoostVersion">
+      <Value>$(BoostVersion)</Value>
+    </BuildMacro>
+    <BuildMacro Include="BoostDir">
+      <Value>$(BoostDir)</Value>
+      <EnvironmentVariable>true</EnvironmentVariable>
+    </BuildMacro>
+    <BuildMacro Include="BoostInclude">
+      <Value>$(BoostInclude)</Value>
+      <EnvironmentVariable>true</EnvironmentVariable>
+    </BuildMacro>
+    <BuildMacro Include="BoostLibs">
+      <Value>$(BoostLibs)</Value>
+      <EnvironmentVariable>true</EnvironmentVariable>
+    </BuildMacro>
+    <BuildMacro Include="GlewVersion">
+      <Value>$(GlewVersion)</Value>
+      <EnvironmentVariable>true</EnvironmentVariable>
+    </BuildMacro>
+    <BuildMacro Include="GlewDir">
+      <Value>$(GlewDir)</Value>
+      <EnvironmentVariable>true</EnvironmentVariable>
+    </BuildMacro>
+    <BuildMacro Include="GlewIncludes">
+      <Value>$(GlewIncludes)</Value>
+      <EnvironmentVariable>true</EnvironmentVariable>
+    </BuildMacro>
+    <BuildMacro Include="GlewLibs">
+      <Value>$(GlewLibs)</Value>
+      <EnvironmentVariable>true</EnvironmentVariable>
+    </BuildMacro>
+    <BuildMacro Include="OggVersion">
+      <Value>$(OggVersion)</Value>
+      <EnvironmentVariable>true</EnvironmentVariable>
+    </BuildMacro>
+    <BuildMacro Include="OggDir">
+      <Value>$(OggDir)</Value>
+      <EnvironmentVariable>true</EnvironmentVariable>
+    </BuildMacro>
+    <BuildMacro Include="OggIncludes">
+      <Value>$(OggIncludes)</Value>
+      <EnvironmentVariable>true</EnvironmentVariable>
+    </BuildMacro>
+    <BuildMacro Include="OggLibs">
+      <Value>$(OggLibs)</Value>
+      <EnvironmentVariable>true</EnvironmentVariable>
+    </BuildMacro>
+    <BuildMacro Include="VorbisVersion">
+      <Value>$(VorbisVersion)</Value>
+      <EnvironmentVariable>true</EnvironmentVariable>
+    </BuildMacro>
+    <BuildMacro Include="VorbisDir">
+      <Value>$(VorbisDir)</Value>
+      <EnvironmentVariable>true</EnvironmentVariable>
+    </BuildMacro>
+    <BuildMacro Include="VorbisIncludes">
+      <Value>$(VorbisIncludes)</Value>
+      <EnvironmentVariable>true</EnvironmentVariable>
+    </BuildMacro>
+    <BuildMacro Include="VorbisLibs">
+      <Value>$(VorbisLibs)</Value>
+      <EnvironmentVariable>true</EnvironmentVariable>
+    </BuildMacro>
+    <BuildMacro Include="LuaVersion">
+      <Value>$(LuaVersion)</Value>
+      <EnvironmentVariable>true</EnvironmentVariable>
+    </BuildMacro>
+    <BuildMacro Include="LuaDir">
+      <Value>$(LuaDir)</Value>
+      <EnvironmentVariable>true</EnvironmentVariable>
+    </BuildMacro>
+    <BuildMacro Include="LuaIncludes">
+      <Value>$(LuaIncludes)</Value>
+      <EnvironmentVariable>true</EnvironmentVariable>
+    </BuildMacro>
+    <BuildMacro Include="LuaLibs">
+      <Value>$(LuaLibs)</Value>
+      <EnvironmentVariable>true</EnvironmentVariable>
+    </BuildMacro>
+    <BuildMacro Include="OpenALDir">
+      <Value>$(OpenALDir)</Value>
+      <EnvironmentVariable>true</EnvironmentVariable>
+    </BuildMacro>
+    <BuildMacro Include="OpenALIncludes">
+      <Value>$(OpenALIncludes)</Value>
+      <EnvironmentVariable>true</EnvironmentVariable>
+    </BuildMacro>
+    <BuildMacro Include="OpenALLibs">
+      <Value>$(OpenALLibs)</Value>
+      <EnvironmentVariable>true</EnvironmentVariable>
+    </BuildMacro>
+    <BuildMacro Include="OpenSSLVersion">
+      <Value>$(OpenSSLVersion)</Value>
+      <EnvironmentVariable>true</EnvironmentVariable>
+    </BuildMacro>
+    <BuildMacro Include="OpenSSLDir">
+      <Value>$(OpenSSLDir)</Value>
+      <EnvironmentVariable>true</EnvironmentVariable>
+    </BuildMacro>
+    <BuildMacro Include="OpenSSLLibs">
+      <Value>$(OpenSSLLibs)</Value>
+      <EnvironmentVariable>true</EnvironmentVariable>
+    </BuildMacro>
+    <BuildMacro Include="OpenSSLIncludes">
+      <Value>$(OpenSSLIncludes)</Value>
+      <EnvironmentVariable>true</EnvironmentVariable>
+    </BuildMacro>
+    <BuildMacro Include="PhsyfsVersion">
+      <Value>$(PhsyfsVersion)</Value>
+      <EnvironmentVariable>true</EnvironmentVariable>
+    </BuildMacro>
+    <BuildMacro Include="PhysfsDir">
+      <Value>$(PhysfsDir)</Value>
+      <EnvironmentVariable>true</EnvironmentVariable>
+    </BuildMacro>
+    <BuildMacro Include="PhysfsIncludes">
+      <Value>$(PhysfsIncludes)</Value>
+      <EnvironmentVariable>true</EnvironmentVariable>
+    </BuildMacro>
+    <BuildMacro Include="PhysfsLibs">
+      <Value>$(PhysfsLibs)</Value>
+      <EnvironmentVariable>true</EnvironmentVariable>
+    </BuildMacro>
+    <BuildMacro Include="ZLibVersion">
+      <Value>$(ZLibVersion)</Value>
+      <EnvironmentVariable>true</EnvironmentVariable>
+    </BuildMacro>
+    <BuildMacro Include="ZLibDir">
+      <Value>$(ZLibDir)</Value>
+      <EnvironmentVariable>true</EnvironmentVariable>
+    </BuildMacro>
+    <BuildMacro Include="ZLibLibs">
+      <Value>$(ZLibLibs)</Value>
+      <EnvironmentVariable>true</EnvironmentVariable>
+    </BuildMacro>
+    <BuildMacro Include="ZLibIncludes">
+      <Value>$(ZLibIncludes)</Value>
+      <EnvironmentVariable>true</EnvironmentVariable>
+    </BuildMacro>
+  </ItemGroup>
+</Project>
