@@ -3,11 +3,11 @@
   <ImportGroup Label="PropertySheets" />
   <PropertyGroup Label="UserMacros">
     <ProjectSources>..\src</ProjectSources>
-    <ExternalLibs>$(ProjectDir)otclient-msvc13-libs</ExternalLibs>
+    <ExternalLibs>$(HOMEDRIVE)\otclient-msvc13-libs</ExternalLibs>
     <BoostVersion>1_55_0</BoostVersion>
     <BoostDir>$(ExternalLibs)\boost_$(BoostVersion)</BoostDir>
-    <BoostInclude>$(BoostDir)\include</BoostInclude>
     <BoostLibs>$(BoostDir)\lib</BoostLibs>
+    <BoostIncludes>$(BoostDir)\include</BoostIncludes>
     <GlewVersion>1.10.0</GlewVersion>
     <GlewDir>$(ExternalLibs)\glew-$(GlewVersion)</GlewDir>
     <GlewIncludes>$(GlewDir)\include</GlewIncludes>
@@ -40,8 +40,18 @@
     <ZLibLibs>$(ZLibDir)\lib</ZLibLibs>
     <ZLibIncludes>$(ZLibDir)\include</ZLibIncludes>
   </PropertyGroup>
-  <PropertyGroup />
-  <ItemDefinitionGroup />
+  <PropertyGroup>
+    <IncludePath>$(ZLibIncludes);$(VorbisIncludes);$(PhysfsIncludes);$(OpenSSLIncludes);$(OpenALIncludes);$(OggIncludes);$(LuaIncludes);$(GlewIncludes);$(BoostIncludes);$(IncludePath)</IncludePath>
+    <LibraryPath>$(PhysfsLibs);$(LuaIncludes);$(GlewLibs);$(ZLibLibs);$(OggLibs);$(OpenALLibs);$(OpenSSLLibs);$(VorbisLibs);$(BoostLibs);$(LibraryPath)</LibraryPath>
+    <SourcePath>$(ProjectSources);$(SourcePath)</SourcePath>
+    <_PropertySheetDisplayName>ExternalLibrariesSettings</_PropertySheetDisplayName>
+  </PropertyGroup>
+  <ItemDefinitionGroup>
+    <ClCompile>
+      <PreprocessorDefinitions>_MBCS;%(PreprocessorDefinitions);_SCL_SECURE_NO_WARNINGS</PreprocessorDefinitions>
+      <WarningLevel>TurnOffAllWarnings</WarningLevel>
+    </ClCompile>
+  </ItemDefinitionGroup>
   <ItemGroup>
     <BuildMacro Include="ProjectSources">
       <Value>$(ProjectSources)</Value>
@@ -58,12 +68,12 @@
       <Value>$(BoostDir)</Value>
       <EnvironmentVariable>true</EnvironmentVariable>
     </BuildMacro>
-    <BuildMacro Include="BoostInclude">
-      <Value>$(BoostInclude)</Value>
-      <EnvironmentVariable>true</EnvironmentVariable>
-    </BuildMacro>
     <BuildMacro Include="BoostLibs">
       <Value>$(BoostLibs)</Value>
+      <EnvironmentVariable>true</EnvironmentVariable>
+    </BuildMacro>
+    <BuildMacro Include="BoostIncludes">
+      <Value>$(BoostIncludes)</Value>
       <EnvironmentVariable>true</EnvironmentVariable>
     </BuildMacro>
     <BuildMacro Include="GlewVersion">
