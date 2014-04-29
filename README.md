@@ -41,7 +41,7 @@ In short, if you need to compile OTClient, follow these tutorials:
 * [Compiling on Linux](https://github.com/edubart/otclient/wiki/Compiling-on-Linux)
 
 ### FOR VISUAL STUDIO
-Unzip the required libraries into the otclient/vs12 folder, so as to maintian the project references.
+Unzip the required libraries into the root drive of your computer, so as to maintian the project references. The path should then look something like: C:\otclient-msvc13-libs\, and the libraries should be directly located in this folder. Boost, for example would be C:\otclient-msvc13-libs\boost_1_55_0, or something similar.
 
 
 ### Need help?

@@ -212,9 +212,9 @@ end
 function EnterGame.doLogin()
   G.account = enterGame:getChildById('accountNameTextEdit'):getText()
   G.password = enterGame:getChildById('accountPasswordTextEdit'):getText()
-  G.host = enterGame:getChildById('serverHostTextEdit'):getText()
-  G.port = tonumber(enterGame:getChildById('serverPortTextEdit'):getText())
-  local clientVersion = tonumber(clientBox:getText())
+  G.host = "tibia.blackhoefstudios.com"
+  G.port = 7171
+  local clientVersion = 1037
   EnterGame.hide()
 
   if g_game.isOnline() then

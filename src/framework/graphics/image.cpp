@@ -22,7 +22,7 @@
 
 
 #include "image.h"
-
+#include <boost/filesystem.hpp>
 #include <framework/core/resourcemanager.h>
 #include <framework/core/filestream.h>
 #include <framework/graphics/apngloader.h>
@@ -52,7 +52,7 @@ ImagePtr Image::load(std::string file)
 
 ImagePtr Image::loadPNG(const std::string& file)
 {
-    std::stringstream fin;
+	std::stringstream fin;
     g_resources.readFileStream(file, fin);
     ImagePtr image;
     apng_data apng;

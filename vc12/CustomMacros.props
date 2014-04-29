@@ -3,6 +3,8 @@
   <ImportGroup Label="PropertySheets" />
   <PropertyGroup Label="UserMacros">
     <ProjectSources>..\src</ProjectSources>
+    <ProjectClient>$(ProjectSources)\client</ProjectClient>
+    <ProjectFramework>$(ProjectSources)\framework</ProjectFramework>
     <ExternalLibs>$(HOMEDRIVE)\otclient-msvc13-libs</ExternalLibs>
     <BoostVersion>1_55_0</BoostVersion>
     <BoostDir>$(ExternalLibs)\boost_$(BoostVersion)</BoostDir>
@@ -25,14 +27,14 @@
     <LuaIncludes>$(LuaDir)\include</LuaIncludes>
     <LuaLibs>$(LuaDir)\lib</LuaLibs>
     <OpenALDir>$(ExternalLibs)\OpenAL</OpenALDir>
-    <OpenALIncludes>$(OpenALDir)\include</OpenALIncludes>
+    <OpenALIncludes>$(OpenALDir)\include\AL</OpenALIncludes>
     <OpenALLibs>$(OpenALDir)\lib</OpenALLibs>
     <OpenSSLVersion>1.0.1e</OpenSSLVersion>
     <OpenSSLDir>$(ExternalLibs)\OpenSSL-$(OpenSSLVersion)</OpenSSLDir>
-    <OpenSSLLibs>$(OpenSSLDir)\lib</OpenSSLLibs>
+    <OpenSSLLibs>$(OpenSSLDir)\lib\VC</OpenSSLLibs>
     <OpenSSLIncludes>$(OpenSSLDir)\include</OpenSSLIncludes>
-    <PhsyfsVersion>2.0.3</PhsyfsVersion>
-    <PhysfsDir>$(ExernalSources)\physfs-$(PhysfsVersion)</PhysfsDir>
+    <PhysfsVersion>2.0.3</PhysfsVersion>
+    <PhysfsDir>$(ExternalLibs)\physfs-$(PhysfsVersion)</PhysfsDir>
     <PhysfsIncludes>$(PhysfsDir)\include</PhysfsIncludes>
     <PhysfsLibs>$(PhysfsDir)\lib</PhysfsLibs>
     <ZLibVersion>1.2.5</ZLibVersion>
@@ -41,8 +43,8 @@
     <ZLibIncludes>$(ZLibDir)\include</ZLibIncludes>
   </PropertyGroup>
   <PropertyGroup>
-    <IncludePath>$(ZLibIncludes);$(VorbisIncludes);$(PhysfsIncludes);$(OpenSSLIncludes);$(OpenALIncludes);$(OggIncludes);$(LuaIncludes);$(GlewIncludes);$(BoostIncludes);$(IncludePath)</IncludePath>
-    <LibraryPath>$(PhysfsLibs);$(LuaIncludes);$(GlewLibs);$(ZLibLibs);$(OggLibs);$(OpenALLibs);$(OpenSSLLibs);$(VorbisLibs);$(BoostLibs);$(LibraryPath)</LibraryPath>
+    <IncludePath>$(WindowsSDK_v81);$(ProjectSources);$(ZLibIncludes);$(VorbisIncludes);$(PhysfsIncludes);$(OpenSSLIncludes);$(OpenALIncludes);$(OggIncludes);$(LuaIncludes);$(GlewIncludes);$(BoostIncludes);$(IncludePath)</IncludePath>
+    <LibraryPath>$(PhysfsLibs);$(LuaLibs);$(GlewLibs);$(ZLibLibs);$(OggLibs);$(OpenALLibs);$(OpenSSLLibs);$(VorbisLibs);$(BoostLibs);$(LibraryPath)</LibraryPath>
     <SourcePath>$(ProjectSources);$(SourcePath)</SourcePath>
     <_PropertySheetDisplayName>ExternalLibrariesSettings</_PropertySheetDisplayName>
   </PropertyGroup>
@@ -55,6 +57,14 @@
   <ItemGroup>
     <BuildMacro Include="ProjectSources">
       <Value>$(ProjectSources)</Value>
+      <EnvironmentVariable>true</EnvironmentVariable>
+    </BuildMacro>
+    <BuildMacro Include="ProjectClient">
+      <Value>$(ProjectClient)</Value>
+      <EnvironmentVariable>true</EnvironmentVariable>
+    </BuildMacro>
+    <BuildMacro Include="ProjectFramework">
+      <Value>$(ProjectFramework)</Value>
       <EnvironmentVariable>true</EnvironmentVariable>
     </BuildMacro>
     <BuildMacro Include="ExternalLibs">
@@ -168,8 +178,8 @@
       <Value>$(OpenSSLIncludes)</Value>
       <EnvironmentVariable>true</EnvironmentVariable>
     </BuildMacro>
-    <BuildMacro Include="PhsyfsVersion">
-      <Value>$(PhsyfsVersion)</Value>
+    <BuildMacro Include="PhysfsVersion">
+      <Value>$(PhysfsVersion)</Value>
       <EnvironmentVariable>true</EnvironmentVariable>
     </BuildMacro>
     <BuildMacro Include="PhysfsDir">
