@@ -37,7 +37,7 @@
     <PhysfsDir>$(ExternalLibs)\physfs-$(PhysfsVersion)</PhysfsDir>
     <PhysfsIncludes>$(PhysfsDir)\include</PhysfsIncludes>
     <PhysfsLibs>$(PhysfsDir)\lib</PhysfsLibs>
-    <ZLibVersion>1.2.5</ZLibVersion>
+    <ZLibVersion>1.2.8</ZLibVersion>
     <ZLibDir>$(ExternalLibs)\zlib-$(ZLibVersion)</ZLibDir>
     <ZLibLibs>$(ZLibDir)\lib</ZLibLibs>
     <ZLibIncludes>$(ZLibDir)\include</ZLibIncludes>

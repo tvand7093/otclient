@@ -112,15 +112,7 @@ function EnterGame.init()
   EnterGame.setAccountName(account)
   EnterGame.setPassword(password)
 
-  enterGame:getChildById('serverHostTextEdit'):setText(host)
-  enterGame:getChildById('serverPortTextEdit'):setText(port)
   enterGame:getChildById('autoLoginBox'):setChecked(autologin)
-
-  clientBox = enterGame:getChildById('clientComboBox')
-  for _, proto in pairs(g_game.getSupportedClients()) do
-    clientBox:addOption(proto)
-  end
-  clientBox:setCurrentOption(clientVersion)
 
   enterGame:hide()
 

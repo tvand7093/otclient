@@ -535,7 +535,9 @@ int load_apng(std::stringstream& file, struct apng_data *apng)
     zstream.zalloc = Z_NULL;
     zstream.zfree = Z_NULL;
     zstream.opaque = Z_NULL;
-    inflateInit(&zstream);
+
+	if (inflateInit(&zstream) != Z_OK)
+		return -1;
 
     frames = 1;
     first_frame = 0;
