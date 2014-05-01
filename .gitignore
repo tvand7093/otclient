@@ -1,6 +1,7 @@
 build*
 CMakeCache.txt
 CMakeFiles
+ClientInstaller/ClientInstaller
 cmake_install.cmake
 Makefile
 /otclient

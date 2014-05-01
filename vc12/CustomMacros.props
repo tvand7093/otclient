@@ -29,7 +29,7 @@
     <OpenALDir>$(ExternalLibs)\OpenAL</OpenALDir>
     <OpenALIncludes>$(OpenALDir)\include\AL</OpenALIncludes>
     <OpenALLibs>$(OpenALDir)\lib</OpenALLibs>
-    <OpenSSLVersion>1.0.1e</OpenSSLVersion>
+    <OpenSSLVersion>1.0.1g</OpenSSLVersion>
     <OpenSSLDir>$(ExternalLibs)\OpenSSL-$(OpenSSLVersion)</OpenSSLDir>
     <OpenSSLLibs>$(OpenSSLDir)\lib\VC</OpenSSLLibs>
     <OpenSSLIncludes>$(OpenSSLDir)\include</OpenSSLIncludes>
@@ -53,6 +53,9 @@
       <PreprocessorDefinitions>_MBCS;%(PreprocessorDefinitions);_SCL_SECURE_NO_WARNINGS</PreprocessorDefinitions>
       <WarningLevel>TurnOffAllWarnings</WarningLevel>
     </ClCompile>
+    <Link>
+      <ImageHasSafeExceptionHandlers>false</ImageHasSafeExceptionHandlers>
+    </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
     <BuildMacro Include="ProjectSources">
