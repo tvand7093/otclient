@@ -359,71 +359,71 @@
 		<row><td>ISX_DEFAULTCOMPONENT24</td><td>{A2593180-5E3B-44FA-8195-6717398C373A}</td><td>STYLES</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
 		<row><td>ISX_DEFAULTCOMPONENT25</td><td>{5467B7CF-3408-4CE7-9D51-EEF8BAC6BDFA}</td><td>THINGS</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
 		<row><td>ISX_DEFAULTCOMPONENT26</td><td>{34557A1E-048F-4E62-B81D-B18B530E6FC7}</td><td>_037</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ISX_DEFAULTCOMPONENT27</td><td>{82DFA67E-504F-4A1E-8D74-D123832C72CA}</td><td>MODULES</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ISX_DEFAULTCOMPONENT28</td><td>{557C00EF-7EF7-4DA4-8960-53788A357C33}</td><td>_PROJECT</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ISX_DEFAULTCOMPONENT29</td><td>{CD4CE0B1-44CF-4273-B3A3-B81473642043}</td><td>CLIENT</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT27</td><td>{14E6BCEE-B488-4D03-96AD-6C78942CB2C6}</td><td>MODULES</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT28</td><td>{BB984274-89BA-42D6-8A57-04E79A9F22C2}</td><td>_PROJECT</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT29</td><td>{8C1E3C9C-533F-4E6C-BCFF-FA9AB5619699}</td><td>CLIENT</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
 		<row><td>ISX_DEFAULTCOMPONENT3</td><td>{A5213EC7-27E4-4DB9-BE76-B3F4E57BF7A3}</td><td>IMAGES</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ISX_DEFAULTCOMPONENT30</td><td>{2D4F2EDE-2C6D-4AAD-95C8-30F5A4587152}</td><td>CLIENT_BACKGROUND</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ISX_DEFAULTCOMPONENT31</td><td>{72E5E3BD-127F-4792-B35E-65F428D4AF77}</td><td>CLIENT_ENTERGAME</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ISX_DEFAULTCOMPONENT32</td><td>{9740FF4C-3E00-421C-B31B-23DE4216D924}</td><td>CLIENT_LOCALES</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ISX_DEFAULTCOMPONENT33</td><td>{C768A9E4-53D5-47C3-BC25-55393ADB0D44}</td><td>CLIENT_MODULEMANAGER</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ISX_DEFAULTCOMPONENT34</td><td>{93A50E73-16B7-4FFF-A5E1-D0A88E34B93F}</td><td>CLIENT_OPTIONS</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ISX_DEFAULTCOMPONENT35</td><td>{265E3FE1-795A-49A8-8015-E0A10AC7B1D2}</td><td>CLIENT_SERVERLIST</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ISX_DEFAULTCOMPONENT36</td><td>{2E40122A-1160-4487-86BE-D6901A64E09F}</td><td>CLIENT_STATS</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ISX_DEFAULTCOMPONENT37</td><td>{3FAABDB3-97B7-4C3C-827E-8E7D984CA997}</td><td>CLIENT_STYLES</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ISX_DEFAULTCOMPONENT38</td><td>{19B72DDE-6731-47EA-BEF3-4F578DBE567D}</td><td>CLIENT_TERMINAL</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ISX_DEFAULTCOMPONENT39</td><td>{29A66411-2FE0-4868-9F10-E65802452042}</td><td>CLIENT_TOPMENU</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT30</td><td>{5FC11D99-3AF6-4BCB-BF36-54B52D47A3EC}</td><td>CLIENT_BACKGROUND</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT31</td><td>{695EB2E8-0168-4C6C-96D9-30308D825A28}</td><td>CLIENT_ENTERGAME</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT32</td><td>{9AC3A415-750A-481B-90E8-0F1C94B94354}</td><td>CLIENT_LOCALES</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT33</td><td>{DD11976B-E1A7-4980-ADB3-EB64DA0F647E}</td><td>CLIENT_MODULEMANAGER</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT34</td><td>{18D12EE5-1723-400A-A24C-E42F6371F0B6}</td><td>CLIENT_OPTIONS</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT35</td><td>{2B071C82-A6F9-4F53-84A9-DB6A7895F490}</td><td>CLIENT_SERVERLIST</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT36</td><td>{63C88EA9-4F4F-48CE-9C27-8AEC45BA9871}</td><td>CLIENT_STATS</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT37</td><td>{0066B6E8-AF50-463E-BA12-2B7BBB005EB3}</td><td>CLIENT_STYLES</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT38</td><td>{5DDB5AD3-368C-4D03-A6B0-D3EF56AE47DB}</td><td>CLIENT_TERMINAL</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT39</td><td>{27925F32-895B-404C-95F0-72944EB8A1F1}</td><td>CLIENT_TOPMENU</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
 		<row><td>ISX_DEFAULTCOMPONENT4</td><td>{B7EE2919-511E-4DCA-AACA-F03E9E57EB5E}</td><td>FLAGS</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ISX_DEFAULTCOMPONENT40</td><td>{4E31DFA0-F8FF-466B-875F-27BDDE5E2BD8}</td><td>CORELIB</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ISX_DEFAULTCOMPONENT41</td><td>{BD74DE6A-4823-4935-9E3C-CCF6D8FEB6B4}</td><td>UI1</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ISX_DEFAULTCOMPONENT42</td><td>{FB994B7C-77B9-4288-BEE0-7ADEC8E02917}</td><td>GAMELIB</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ISX_DEFAULTCOMPONENT43</td><td>{00D7FE9F-6174-4291-9181-8278A0E45556}</td><td>UI2</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ISX_DEFAULTCOMPONENT44</td><td>{9B5845ED-6701-4921-8DFE-C63B0904328E}</td><td>GAME_BATTLE</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ISX_DEFAULTCOMPONENT45</td><td>{4DC12A76-B591-4E40-8131-12CC2A8DD501}</td><td>GAME_BUGREPORT</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ISX_DEFAULTCOMPONENT46</td><td>{C25F73C5-1886-4217-9A3B-8727511E1F0D}</td><td>GAME_COMBATCONTROLS</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ISX_DEFAULTCOMPONENT47</td><td>{F78940C6-27F9-43D2-AF64-84073A2718AB}</td><td>GAME_CONSOLE</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ISX_DEFAULTCOMPONENT48</td><td>{7CF917F7-9DC7-4B59-9BBA-663B5FF976FA}</td><td>GAME_CONTAINERS</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ISX_DEFAULTCOMPONENT49</td><td>{50D1B177-F5BB-44F6-B0DF-20C014AA5F3A}</td><td>GAME_COOLDOWN</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT40</td><td>{E4FE7EF7-EF5E-4F41-B467-2C006B54B519}</td><td>CORELIB</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT41</td><td>{D9CA6022-F150-4366-99DC-07A05DD6C314}</td><td>UI1</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT42</td><td>{A35EAC18-F530-4FB7-A71F-EFA74CB7F865}</td><td>GAMELIB</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT43</td><td>{CEC150A2-1FB7-4489-8F7B-3D0A37575D39}</td><td>UI2</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT44</td><td>{9E4B9A38-D7A0-41F4-9E40-99D96FE4C18E}</td><td>GAME_BATTLE</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT45</td><td>{AA459C24-15D5-44ED-B207-189053F24AB3}</td><td>GAME_BUGREPORT</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT46</td><td>{47F1635F-19E7-4B9C-8A30-978FA9CD6D30}</td><td>GAME_COMBATCONTROLS</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT47</td><td>{4FC0E29E-F0E7-48B8-B512-350F099A2920}</td><td>GAME_CONSOLE</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT48</td><td>{9FF3975E-16CE-41EA-9331-00FAAF6CDDB6}</td><td>GAME_CONTAINERS</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT49</td><td>{43445ED4-5992-4ACB-9F7D-2658B8527A5F}</td><td>GAME_COOLDOWN</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
 		<row><td>ISX_DEFAULTCOMPONENT5</td><td>{30934583-D9DF-4C73-A83C-FF981C87E6B6}</td><td>GAME</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ISX_DEFAULTCOMPONENT50</td><td>{898DEE7D-FBC7-4E65-BAF0-CC5E80C3FB27}</td><td>GAME_HEALTHINFO</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ISX_DEFAULTCOMPONENT51</td><td>{16EAD899-20B9-4746-9FBB-F5A5CDD0CB81}</td><td>GAME_HOTKEYS</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ISX_DEFAULTCOMPONENT52</td><td>{CED59DB5-2DD8-4537-9CDA-6229A941BF0E}</td><td>GAME_INTERFACE</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ISX_DEFAULTCOMPONENT53</td><td>{E7A58327-1ABA-49A0-8CD3-6468C3A4F19E}</td><td>STYLES1</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ISX_DEFAULTCOMPONENT54</td><td>{45034BBD-F3FA-4E5E-8C83-C27582526A8B}</td><td>WIDGETS</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ISX_DEFAULTCOMPONENT55</td><td>{3CFEDA9C-06B8-46AF-A734-46DA524CC6D9}</td><td>GAME_INVENTORY</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ISX_DEFAULTCOMPONENT56</td><td>{B80C3E8F-4914-4053-9148-DA3184074550}</td><td>GAME_MARKET</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ISX_DEFAULTCOMPONENT57</td><td>{365DAF14-1F53-4A76-B0F1-93A4AF711357}</td><td>UI3</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ISX_DEFAULTCOMPONENT58</td><td>{E905F751-5B86-4F3F-A36B-0B9BB53C8D08}</td><td>GENERAL</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ISX_DEFAULTCOMPONENT59</td><td>{40EE5E83-7097-4299-8FB7-4CD6975F38C6}</td><td>MARKETOFFERS</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT50</td><td>{9FD53FFB-4697-437E-AA7C-92135E74CC87}</td><td>GAME_HEALTHINFO</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT51</td><td>{A6F4103C-B54A-4846-AAED-63C850DDB236}</td><td>GAME_HOTKEYS</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT52</td><td>{512F7011-E5A8-475D-BD55-4A49AA10D619}</td><td>GAME_INTERFACE</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT53</td><td>{65D21435-5CBD-42A2-BAA1-5A6B9346E6F7}</td><td>STYLES1</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT54</td><td>{F23AC746-612C-4883-80EC-7EA8AA1BD9F1}</td><td>WIDGETS</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT55</td><td>{ACA48AE2-B93E-4B23-AF90-B1E2ABE2A37B}</td><td>GAME_INVENTORY</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT56</td><td>{C56D8026-B892-47E7-BB9E-DA9F1F83FE69}</td><td>GAME_MARKET</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT57</td><td>{40C700E5-7701-4D9A-AD2D-F5A6AC728367}</td><td>UI3</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT58</td><td>{0CA2B62C-75D0-47D4-B082-B4A088072095}</td><td>GENERAL</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT59</td><td>{277BC371-2D50-4A91-913E-7030449BFF0B}</td><td>MARKETOFFERS</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
 		<row><td>ISX_DEFAULTCOMPONENT6</td><td>{185D0250-FBA7-471B-8298-D9D591E2B798}</td><td>BATTLE</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ISX_DEFAULTCOMPONENT60</td><td>{3CB1BC61-1CBF-4B3B-A897-9A20A6AABBD0}</td><td>MYOFFERS</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ISX_DEFAULTCOMPONENT61</td><td>{61D51368-271D-4C2D-AEE6-396534ACAD5F}</td><td>GAME_MINIMAP</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ISX_DEFAULTCOMPONENT62</td><td>{19A3F71D-DEFC-414A-BA63-C189B0C5A1EC}</td><td>GAME_MODALDIALOG</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ISX_DEFAULTCOMPONENT63</td><td>{DD01A3BB-0BDB-4822-B5A7-51190815B6BA}</td><td>GAME_NPCTRADE</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ISX_DEFAULTCOMPONENT64</td><td>{D9A82E91-ADC8-455E-8828-3C8FCD3ED3B1}</td><td>GAME_OUTFIT</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ISX_DEFAULTCOMPONENT65</td><td>{D371B8CB-55BF-4F1C-8C30-3843C849E80E}</td><td>GAME_PLAYERDEATH</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ISX_DEFAULTCOMPONENT66</td><td>{1D7B1B62-7014-48A1-9232-29CB160F0D07}</td><td>GAME_PLAYERMOUNT</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ISX_DEFAULTCOMPONENT67</td><td>{5F6D0628-726C-47FE-AAC6-67102E2C5A38}</td><td>GAME_PLAYERTRADE</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ISX_DEFAULTCOMPONENT68</td><td>{89E02F0C-8C5A-41C9-B3EB-17A8512BE9DA}</td><td>GAME_QUESTLOG</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ISX_DEFAULTCOMPONENT69</td><td>{66167D77-2A08-4C43-B9AE-0B625FEBFCF6}</td><td>GAME_RULEVIOLATION</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT60</td><td>{598E976C-14F5-4C3E-927B-512A6F3B7877}</td><td>MYOFFERS</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT61</td><td>{3575D10E-B508-47E4-BB96-DA0E1654E134}</td><td>GAME_MINIMAP</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT62</td><td>{F067C9FC-2D1C-46C9-9648-797B2D466500}</td><td>GAME_MODALDIALOG</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT63</td><td>{2B7EB2DF-0C24-4303-A5FD-B5EB929DCE08}</td><td>GAME_NPCTRADE</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT64</td><td>{EA5F769B-F0B4-472C-9731-2EF88BA62E82}</td><td>GAME_OUTFIT</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT65</td><td>{3C756F80-A815-4994-ADE6-E387DD07CE22}</td><td>GAME_PLAYERDEATH</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT66</td><td>{FA871CB7-199F-4E01-A3E2-4DB2C6913C45}</td><td>GAME_PLAYERMOUNT</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT67</td><td>{A3F6A304-4E4F-4B40-B956-AAECDD8BDFA4}</td><td>GAME_PLAYERTRADE</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT68</td><td>{3C54E76E-DE36-48B7-9ADF-151A05394EE5}</td><td>GAME_QUESTLOG</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT69</td><td>{5E4317DE-2E11-457D-93E8-49576FDE684F}</td><td>GAME_RULEVIOLATION</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
 		<row><td>ISX_DEFAULTCOMPONENT7</td><td>{31CB647F-20E5-49D0-B4E4-513F5179DB88}</td><td>COMBATMODES</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ISX_DEFAULTCOMPONENT70</td><td>{EE9893F5-40A2-4C97-8E83-64DF0ECCF76B}</td><td>GAME_SKILLS</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ISX_DEFAULTCOMPONENT71</td><td>{C3A5E39E-B461-4EAC-A103-2AD74A8642D1}</td><td>GAME_SPELLLIST</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ISX_DEFAULTCOMPONENT72</td><td>{2E76CA06-64CB-4F85-A186-573CE2FC05B8}</td><td>GAME_TEXTMESSAGE</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ISX_DEFAULTCOMPONENT73</td><td>{DFE008B4-B949-4992-ADD8-6ECE3E6B1D73}</td><td>GAME_TEXTWINDOW</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ISX_DEFAULTCOMPONENT74</td><td>{19665D70-73E2-47DE-8364-011926E78793}</td><td>GAME_THINGS</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>ISX_DEFAULTCOMPONENT75</td><td>{27F8C385-B58F-4962-B29B-81630E07D27E}</td><td>GAME_VIPLIST</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT70</td><td>{7CC6B70C-94DC-4D4F-894F-BB2C3DF3E39B}</td><td>GAME_SKILLS</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT71</td><td>{83E4BA8B-13F4-47DD-9DAE-DA79FBB138CC}</td><td>GAME_SPELLLIST</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT72</td><td>{58E5AB3C-2926-4D70-B070-8086C9E402AA}</td><td>GAME_TEXTMESSAGE</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT73</td><td>{18E5C40F-A4DE-4FB6-8C18-74BD6D9DC169}</td><td>GAME_TEXTWINDOW</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT74</td><td>{10C02402-A397-4DBC-96C6-50239FEF6480}</td><td>GAME_THINGS</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>ISX_DEFAULTCOMPONENT75</td><td>{6B290A44-86A9-4F83-9250-58DED83FC6F4}</td><td>GAME_VIPLIST</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
 		<row><td>ISX_DEFAULTCOMPONENT76</td><td>{E843D529-CEC6-4F6C-9A46-B5C802FD168C}</td><td>MODS</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
 		<row><td>ISX_DEFAULTCOMPONENT77</td><td>{08102A88-1EB0-422E-BD2D-B67F73A68C3C}</td><td>BLACKHOEF_STUDIOS</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
 		<row><td>ISX_DEFAULTCOMPONENT78</td><td>{76ED1C3A-3607-477E-BAE5-9C30890D0250}</td><td>INSTALLDIR</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
 		<row><td>ISX_DEFAULTCOMPONENT8</td><td>{02E86269-D8E0-4419-9BA4-659C0811F1B3}</td><td>CONSOLE</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
 		<row><td>ISX_DEFAULTCOMPONENT9</td><td>{C15ED4DD-4E9A-4642-8301-A01FA61BC756}</td><td>EMBLEMS</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>OpenAL32.dll</td><td>{D7B3E837-FD23-4826-8F89-2D58310C93AB}</td><td>INSTALLDIR</td><td>2</td><td/><td>openal32.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>glew32.dll</td><td>{50719C37-26BA-4271-9456-9D5C0B2A15FF}</td><td>INSTALLDIR</td><td>2</td><td/><td>glew32.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>libeay32.dll</td><td>{056D6AD3-7540-4753-AC7B-156CC6EA6715}</td><td>INSTALLDIR</td><td>2</td><td/><td>libeay32.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>luajit.dll</td><td>{26FE428D-DF60-4D90-BF25-012B6AD7E8F1}</td><td>INSTALLDIR</td><td>2</td><td/><td>luajit.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>OpenAL32.dll</td><td>{D7219C28-229A-48EE-87FF-42B73EDC949D}</td><td>INSTALLDIR</td><td>2</td><td/><td>openal32.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>glew32.dll</td><td>{491BE10A-E251-4AA1-A582-458B4CDDB1F1}</td><td>INSTALLDIR</td><td>2</td><td/><td>glew32.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>luajit.dll</td><td>{B254C4A9-4851-477A-898C-6883BC945569}</td><td>INSTALLDIR</td><td>2</td><td/><td>luajit.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
 		<row><td>otclient.Primary_Output2</td><td>{C2C6518A-8193-44E5-B9FB-3FA649D1C69A}</td><td>INSTALLDIR</td><td>2</td><td/><td>otclient.primary_output2</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>physfs.dll</td><td>{CDA31EA8-0738-4BD7-A5A7-698704F64F56}</td><td>INSTALLDIR</td><td>2</td><td/><td>physfs.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>physfs.dll</td><td>{308264FA-CE82-454C-AE5E-00675ADCED0D}</td><td>INSTALLDIR</td><td>2</td><td/><td>physfs.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>zlib1.dll</td><td>{E669C004-15AD-4615-A3FC-6CBD88C8EEA0}</td><td>INSTALLDIR</td><td>2</td><td/><td>zlib1.dll</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
 	</table>
 
 	<table name="Condition">
@@ -2105,10 +2105,10 @@
 		<row><td>AlwaysInstall</td><td>ISX_DEFAULTCOMPONENT9</td></row>
 		<row><td>AlwaysInstall</td><td>OpenAL32.dll</td></row>
 		<row><td>AlwaysInstall</td><td>glew32.dll</td></row>
-		<row><td>AlwaysInstall</td><td>libeay32.dll</td></row>
 		<row><td>AlwaysInstall</td><td>luajit.dll</td></row>
 		<row><td>AlwaysInstall</td><td>otclient.Primary_Output2</td></row>
 		<row><td>AlwaysInstall</td><td>physfs.dll</td></row>
+		<row><td>AlwaysInstall</td><td>zlib1.dll</td></row>
 	</table>
 
 	<table name="File">
@@ -2295,7 +2295,7 @@
 		<row><td>gameinterface.lua</td><td>ISX_DEFAULTCOMPONENT52</td><td>GAMEIN~1.LUA|gameinterface.lua</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Users\Tyler\Desktop\GitHub\otclient\modules\game_interface\gameinterface.lua</td><td>1</td><td/></row>
 		<row><td>gameinterface.otui</td><td>ISX_DEFAULTCOMPONENT52</td><td>GAMEIN~1.OTU|gameinterface.otui</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Users\Tyler\Desktop\GitHub\otclient\modules\game_interface\gameinterface.otui</td><td>1</td><td/></row>
 		<row><td>gamelib.otmod</td><td>ISX_DEFAULTCOMPONENT42</td><td>GAMELI~1.OTM|gamelib.otmod</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Users\Tyler\Desktop\GitHub\otclient\modules\gamelib\gamelib.otmod</td><td>1</td><td/></row>
-		<row><td>glew32.dll</td><td>glew32.dll</td><td>glew32.dll</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Users\Tyler\Desktop\GitHub\otclient\vc12\Debug\glew32.dll</td><td>1</td><td/></row>
+		<row><td>glew32.dll</td><td>glew32.dll</td><td>glew32.dll</td><td>0</td><td/><td/><td/><td>1</td><td>C:\otclient-msvc13-libs\glew-1.10.0\bin\glew32.dll</td><td>1</td><td/></row>
 		<row><td>globals.lua</td><td>ISX_DEFAULTCOMPONENT40</td><td>globals.lua</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Users\Tyler\Desktop\GitHub\otclient\modules\corelib\globals.lua</td><td>1</td><td/></row>
 		<row><td>graphics.otui</td><td>ISX_DEFAULTCOMPONENT34</td><td>GRAPHI~1.OTU|graphics.otui</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Users\Tyler\Desktop\GitHub\otclient\modules\client_options\graphics.otui</td><td>1</td><td/></row>
 		<row><td>graphics.png</td><td>ISX_DEFAULTCOMPONENT18</td><td>graphics.png</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Users\Tyler\Desktop\GitHub\otclient\data\images\optionstab\graphics.png</td><td>1</td><td/></row>
@@ -2334,14 +2334,13 @@
 		<row><td>left_hand.png</td><td>ISX_DEFAULTCOMPONENT14</td><td>LEFT-H~1.PNG|left-hand.png</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Users\Tyler\Desktop\GitHub\otclient\data\images\game\slots\left-hand.png</td><td>1</td><td/></row>
 		<row><td>leftarrow.png</td><td>ISX_DEFAULTCOMPONENT8</td><td>LEFTAR~1.PNG|leftarrow.png</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Users\Tyler\Desktop\GitHub\otclient\data\images\game\console\leftarrow.png</td><td>1</td><td/></row>
 		<row><td>legs.png</td><td>ISX_DEFAULTCOMPONENT14</td><td>legs.png</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Users\Tyler\Desktop\GitHub\otclient\data\images\game\slots\legs.png</td><td>1</td><td/></row>
-		<row><td>libeay32.dll</td><td>libeay32.dll</td><td>libeay32.dll</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Users\Tyler\Desktop\GitHub\otclient\vc12\Debug\libeay32.dll</td><td>1</td><td/></row>
 		<row><td>locales.lua</td><td>ISX_DEFAULTCOMPONENT32</td><td>locales.lua</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Users\Tyler\Desktop\GitHub\otclient\modules\client_locales\locales.lua</td><td>1</td><td/></row>
 		<row><td>locales.otmod</td><td>ISX_DEFAULTCOMPONENT32</td><td>LOCALE~1.OTM|locales.otmod</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Users\Tyler\Desktop\GitHub\otclient\modules\client_locales\locales.otmod</td><td>1</td><td/></row>
 		<row><td>locales.otui</td><td>ISX_DEFAULTCOMPONENT32</td><td>LOCALE~1.OTU|locales.otui</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Users\Tyler\Desktop\GitHub\otclient\modules\client_locales\locales.otui</td><td>1</td><td/></row>
 		<row><td>login.png</td><td>ISX_DEFAULTCOMPONENT19</td><td>login.png</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Users\Tyler\Desktop\GitHub\otclient\data\images\topbuttons\login.png</td><td>1</td><td/></row>
 		<row><td>logout.png</td><td>ISX_DEFAULTCOMPONENT19</td><td>logout.png</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Users\Tyler\Desktop\GitHub\otclient\data\images\topbuttons\logout.png</td><td>1</td><td/></row>
 		<row><td>logout_block.png</td><td>ISX_DEFAULTCOMPONENT16</td><td>LOGOUT~1.PNG|logout_block.png</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Users\Tyler\Desktop\GitHub\otclient\data\images\game\states\logout_block.png</td><td>1</td><td/></row>
-		<row><td>luajit.dll</td><td>luajit.dll</td><td>luajit.dll</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Users\Tyler\Desktop\GitHub\otclient\vc12\Debug\luajit.dll</td><td>1</td><td/></row>
+		<row><td>luajit.dll</td><td>luajit.dll</td><td>luajit.dll</td><td>0</td><td/><td/><td/><td>1</td><td>C:\otclient-msvc13-libs\LuaJIT-2.0.2\lib\luajit.dll</td><td>1</td><td/></row>
 		<row><td>magic_shield.png</td><td>ISX_DEFAULTCOMPONENT16</td><td>MAGIC_~1.PNG|magic_shield.png</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Users\Tyler\Desktop\GitHub\otclient\data\images\game\states\magic_shield.png</td><td>1</td><td/></row>
 		<row><td>market.lua</td><td>ISX_DEFAULTCOMPONENT42</td><td>market.lua</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Users\Tyler\Desktop\GitHub\otclient\modules\gamelib\market.lua</td><td>1</td><td/></row>
 		<row><td>market.lua1</td><td>ISX_DEFAULTCOMPONENT56</td><td>market.lua</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Users\Tyler\Desktop\GitHub\otclient\modules\game_market\market.lua</td><td>1</td><td/></row>
@@ -2381,7 +2380,7 @@
 		<row><td>npctrade.otui</td><td>ISX_DEFAULTCOMPONENT63</td><td>NPCTRA~1.OTU|npctrade.otui</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Users\Tyler\Desktop\GitHub\otclient\modules\game_npctrade\npctrade.otui</td><td>1</td><td/></row>
 		<row><td>offerhistory.otui</td><td>ISX_DEFAULTCOMPONENT60</td><td>OFFERH~1.OTU|offerhistory.otui</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Users\Tyler\Desktop\GitHub\otclient\modules\game_market\ui\myoffers\offerhistory.otui</td><td>1</td><td/></row>
 		<row><td>offerstatistic.lua</td><td>ISX_DEFAULTCOMPONENT56</td><td>OFFERS~1.LUA|offerstatistic.lua</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Users\Tyler\Desktop\GitHub\otclient\modules\game_market\offerstatistic.lua</td><td>1</td><td/></row>
-		<row><td>openal32.dll</td><td>OpenAL32.dll</td><td>OpenAL32.dll</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Users\Tyler\Desktop\GitHub\otclient\vc12\Debug\OpenAL32.dll</td><td>1</td><td/></row>
+		<row><td>openal32.dll</td><td>OpenAL32.dll</td><td>OpenAL32.dll</td><td>0</td><td/><td/><td/><td>1</td><td>C:\otclient-msvc13-libs\OpenAL\lib\OpenAL32.dll</td><td>1</td><td/></row>
 		<row><td>options.lua</td><td>ISX_DEFAULTCOMPONENT34</td><td>options.lua</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Users\Tyler\Desktop\GitHub\otclient\modules\client_options\options.lua</td><td>1</td><td/></row>
 		<row><td>options.otmod</td><td>ISX_DEFAULTCOMPONENT34</td><td>OPTION~1.OTM|options.otmod</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Users\Tyler\Desktop\GitHub\otclient\modules\client_options\options.otmod</td><td>1</td><td/></row>
 		<row><td>options.otui</td><td>ISX_DEFAULTCOMPONENT34</td><td>OPTION~1.OTU|options.otui</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Users\Tyler\Desktop\GitHub\otclient\modules\client_options\options.otui</td><td>1</td><td/></row>
@@ -2404,7 +2403,7 @@
 		<row><td>particle.png</td><td>ISX_DEFAULTCOMPONENT22</td><td>particle.png</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Users\Tyler\Desktop\GitHub\otclient\data\particles\particle.png</td><td>1</td><td/></row>
 		<row><td>particles.otps</td><td>ISX_DEFAULTCOMPONENT22</td><td>PARTIC~1.OTP|particles.otps</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Users\Tyler\Desktop\GitHub\otclient\data\particles\particles.otps</td><td>1</td><td/></row>
 		<row><td>particles.png</td><td>ISX_DEFAULTCOMPONENT19</td><td>PARTIC~1.PNG|particles.png</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Users\Tyler\Desktop\GitHub\otclient\data\images\topbuttons\particles.png</td><td>1</td><td/></row>
-		<row><td>physfs.dll</td><td>physfs.dll</td><td>physfs.dll</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Users\Tyler\Desktop\GitHub\otclient\vc12\Debug\physfs.dll</td><td>1</td><td/></row>
+		<row><td>physfs.dll</td><td>physfs.dll</td><td>physfs.dll</td><td>0</td><td/><td/><td/><td>1</td><td>C:\otclient-msvc13-libs\physfs-2.0.3\lib\physfs.dll</td><td>1</td><td/></row>
 		<row><td>pl.lua</td><td>ISX_DEFAULTCOMPONENT21</td><td>pl.lua</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Users\Tyler\Desktop\GitHub\otclient\data\locales\pl.lua</td><td>1</td><td/></row>
 		<row><td>pl.png</td><td>ISX_DEFAULTCOMPONENT4</td><td>pl.png</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Users\Tyler\Desktop\GitHub\otclient\data\images\flags\pl.png</td><td>1</td><td/></row>
 		<row><td>player.lua</td><td>ISX_DEFAULTCOMPONENT42</td><td>player.lua</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Users\Tyler\Desktop\GitHub\otclient\modules\gamelib\player.lua</td><td>1</td><td/></row>
@@ -2568,6 +2567,7 @@
 		<row><td>window_headless.png</td><td>ISX_DEFAULTCOMPONENT20</td><td>WINDOW~1.PNG|window_headless.png</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Users\Tyler\Desktop\GitHub\otclient\data\images\ui\window_headless.png</td><td>1</td><td/></row>
 		<row><td>yell.png</td><td>ISX_DEFAULTCOMPONENT8</td><td>yell.png</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Users\Tyler\Desktop\GitHub\otclient\data\images\game\console\yell.png</td><td>1</td><td/></row>
 		<row><td>yellowhandmode.png</td><td>ISX_DEFAULTCOMPONENT7</td><td>YELLOW~1.PNG|yellowhandmode.png</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Users\Tyler\Desktop\GitHub\otclient\data\images\game\combatmodes\yellowhandmode.png</td><td>1</td><td/></row>
+		<row><td>zlib1.dll</td><td>zlib1.dll</td><td>zlib1.dll</td><td>0</td><td/><td/><td/><td>1</td><td>C:\otclient-msvc13-libs\zlib-1.2.8\zlib1.dll</td><td>1</td><td/></row>
 		<row><td>zoom_in.png</td><td>ISX_DEFAULTCOMPONENT10</td><td>zoom_in.png</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Users\Tyler\Desktop\GitHub\otclient\data\images\game\minimap\zoom_in.png</td><td>1</td><td/></row>
 		<row><td>zoom_out.png</td><td>ISX_DEFAULTCOMPONENT10</td><td>zoom_out.png</td><td>0</td><td/><td/><td/><td>1</td><td>C:\Users\Tyler\Desktop\GitHub\otclient\data\images\game\minimap\zoom_out.png</td><td>1</td><td/></row>
 	</table>
@@ -2733,71 +2733,71 @@
 		<row><td>ISX_DEFAULTCOMPONENT24</td><td/><td/><td>_0F087FDE_1F95_4704_84DC_1CBE7BDF71C7_FILTER</td><td/><td/><td/><td/></row>
 		<row><td>ISX_DEFAULTCOMPONENT25</td><td/><td/><td>_0F9BCD7F_D5A2_4525_84B3_5B4259D3DC55_FILTER</td><td/><td/><td/><td/></row>
 		<row><td>ISX_DEFAULTCOMPONENT26</td><td/><td/><td>_49F94CEA_3A6F_42FD_9268_7C835C4535E9_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>ISX_DEFAULTCOMPONENT27</td><td/><td/><td>_86CE63B2_E4A6_48DB_A05C_FF0C75E3A8E3_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>ISX_DEFAULTCOMPONENT28</td><td/><td/><td>_A008FAB0_2A40_422A_A9FF_E3E7C0C33158_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>ISX_DEFAULTCOMPONENT29</td><td/><td/><td>_9C8DFD39_D543_4795_AB8D_82F56476AAF3_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT27</td><td/><td/><td>_157EA365_8995_42D3_B44C_AA6F2D01C797_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT28</td><td/><td/><td>_3CD0E086_CC54_4E70_A1EB_7ADAABFEB694_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT29</td><td/><td/><td>_BC85AF82_B3AC_44BE_B098_9F49821C9681_FILTER</td><td/><td/><td/><td/></row>
 		<row><td>ISX_DEFAULTCOMPONENT3</td><td/><td/><td>_5E70DEFE_835F_447A_8EE1_561D8F4DD185_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>ISX_DEFAULTCOMPONENT30</td><td/><td/><td>_C24AE6BE_4F1D_4C71_ADEE_AB77B22A3674_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>ISX_DEFAULTCOMPONENT31</td><td/><td/><td>_E6ACCB16_2E63_4147_AAB1_201755809001_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>ISX_DEFAULTCOMPONENT32</td><td/><td/><td>_0CAF8035_BF74_41CB_B93A_85A0D40B5555_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>ISX_DEFAULTCOMPONENT33</td><td/><td/><td>_5A6A3C66_4C56_49A4_8050_176D206E9824_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>ISX_DEFAULTCOMPONENT34</td><td/><td/><td>_BB499705_2C0F_4C27_B545_AE507B410780_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>ISX_DEFAULTCOMPONENT35</td><td/><td/><td>_E0A7AB7C_A311_4D5C_B4AB_DE250B7A5B36_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>ISX_DEFAULTCOMPONENT36</td><td/><td/><td>_07E7A69C_502C_47DA_83FE_96A9BAC21610_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>ISX_DEFAULTCOMPONENT37</td><td/><td/><td>_7FD599FF_581C_4ED9_8FC7_56EC8CFEB790_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>ISX_DEFAULTCOMPONENT38</td><td/><td/><td>_C7412AE8_E0BA_4155_B64E_B86DCD7EBA98_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>ISX_DEFAULTCOMPONENT39</td><td/><td/><td>_6F380DEF_ED52_4B1B_9A94_09AE17818D3C_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT30</td><td/><td/><td>_4E3C9C45_856E_4F65_A111_8B4CECF8B2DF_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT31</td><td/><td/><td>_31F96812_B83A_421B_8CCF_31E5817AB460_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT32</td><td/><td/><td>_CA3BE6BD_BAD8_439A_81DB_66BEC73E55E7_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT33</td><td/><td/><td>_5A98A1AA_4AEF_4138_9CF2_CE08B4C6B5A1_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT34</td><td/><td/><td>_137228F5_D27A_409B_AB7F_A6D8D1F24677_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT35</td><td/><td/><td>_683936A3_1E52_42A5_94DF_9BEA827F2615_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT36</td><td/><td/><td>_59268420_FA51_4B24_B300_68DEFB72F96E_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT37</td><td/><td/><td>_D1292231_C63F_41C1_B4A6_37F6E22CDB8F_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT38</td><td/><td/><td>_5D183170_9DEA_4B93_9CCA_CE0B93A72DD5_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT39</td><td/><td/><td>_3446DBF5_893C_4ECC_AE0A_243BA854DA53_FILTER</td><td/><td/><td/><td/></row>
 		<row><td>ISX_DEFAULTCOMPONENT4</td><td/><td/><td>_AF9FD293_FB24_4AB7_8BFE_77816F1FDAAD_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>ISX_DEFAULTCOMPONENT40</td><td/><td/><td>_51585AA2_9835_4EE1_AA5D_6633505D3E0B_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>ISX_DEFAULTCOMPONENT41</td><td/><td/><td>_393E2B6A_C0E7_4873_A60B_F0B2A65792EA_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>ISX_DEFAULTCOMPONENT42</td><td/><td/><td>_2046FFF1_C8F0_464A_BE53_CEDB4E2EC07C_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>ISX_DEFAULTCOMPONENT43</td><td/><td/><td>_85D49CDC_32E0_4B28_B726_B2D8437E5AF4_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>ISX_DEFAULTCOMPONENT44</td><td/><td/><td>_A4C48F84_D4A8_4218_899C_B7CD53075B3A_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>ISX_DEFAULTCOMPONENT45</td><td/><td/><td>_E9F96EFA_166D_4F5A_AFE2_5C33A29E7CEB_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>ISX_DEFAULTCOMPONENT46</td><td/><td/><td>_F2589EC4_6450_4995_81CA_E6C7F01B9956_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>ISX_DEFAULTCOMPONENT47</td><td/><td/><td>_8EC5973C_1E50_4B12_91F7_790349255567_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>ISX_DEFAULTCOMPONENT48</td><td/><td/><td>_58428C5A_E281_4584_88DC_6B03883B6232_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>ISX_DEFAULTCOMPONENT49</td><td/><td/><td>_239C947E_0979_4B9E_82F2_3BF2B8C671F5_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT40</td><td/><td/><td>_DFA81703_A808_4668_B693_E043302061B1_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT41</td><td/><td/><td>_EE291BFA_7EA9_4F3E_9D0A_17013AAA9038_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT42</td><td/><td/><td>_F2EF614F_A73F_452A_A250_9C42CECCDA66_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT43</td><td/><td/><td>_1F723209_37BE_48B4_B181_718F67D2525F_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT44</td><td/><td/><td>_2F0CD0A7_87BD_407D_AF2A_24277B57F5ED_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT45</td><td/><td/><td>_FA294116_77DD_4462_90C6_831407E74F95_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT46</td><td/><td/><td>_1B867367_0AFF_4F8A_8148_279769CEBC40_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT47</td><td/><td/><td>_AA17CCC2_791D_4DF7_8015_DA37EDBD9A13_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT48</td><td/><td/><td>_585C6EDA_9AB2_4A91_B4F2_9DB3C788330A_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT49</td><td/><td/><td>_B745E535_B176_4BD8_B416_DC1B8CADFE79_FILTER</td><td/><td/><td/><td/></row>
 		<row><td>ISX_DEFAULTCOMPONENT5</td><td/><td/><td>_B3C8E9F1_8472_42FD_ACC1_B3A0B06109DA_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>ISX_DEFAULTCOMPONENT50</td><td/><td/><td>_9513D8D4_A568_470C_B2AE_C092B1DAB8A7_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>ISX_DEFAULTCOMPONENT51</td><td/><td/><td>_46DC1EDA_69FD_4EDE_8603_5CB064B947D6_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>ISX_DEFAULTCOMPONENT52</td><td/><td/><td>_EC93E285_F7F2_4289_9A4E_1183878D6DC4_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>ISX_DEFAULTCOMPONENT53</td><td/><td/><td>_43EBC3BA_FD41_4D1E_B539_B22E91DA7DF9_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>ISX_DEFAULTCOMPONENT54</td><td/><td/><td>_6C578D40_D776_4E4E_AD09_3914FD0625F3_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>ISX_DEFAULTCOMPONENT55</td><td/><td/><td>_CBBB454C_C37F_4031_A5E8_92358FA7C71F_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>ISX_DEFAULTCOMPONENT56</td><td/><td/><td>_68DF2B49_6411_4283_BF62_C6759CB0CE5B_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>ISX_DEFAULTCOMPONENT57</td><td/><td/><td>_7BAEDDFF_4E9B_4D85_8EF2_3E6527CDE27C_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>ISX_DEFAULTCOMPONENT58</td><td/><td/><td>_3EDE4939_B7F6_4FDF_87D2_02393A20016E_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>ISX_DEFAULTCOMPONENT59</td><td/><td/><td>_7DA3A38C_D7D9_49B8_9C8F_E15E0A0B3E84_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT50</td><td/><td/><td>_5B098741_E718_4621_AF32_796E1A43B3EC_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT51</td><td/><td/><td>_30775115_A9DF_4618_874E_84FA8403B2C5_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT52</td><td/><td/><td>_E7FA3B8A_9C40_4F01_9CF3_ED29B2483585_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT53</td><td/><td/><td>_467A7962_6CB5_4E5B_B32F_56F5841454D7_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT54</td><td/><td/><td>_EBF1F79E_0085_464F_8D0D_3FB93571D8DC_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT55</td><td/><td/><td>_39BAA8FE_C7F3_4F66_9CAF_C4940D87D46E_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT56</td><td/><td/><td>_41EEF407_7403_4934_9128_FDD21A466890_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT57</td><td/><td/><td>_07654D4D_3EBD_44E8_BD15_6F9F9EA40615_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT58</td><td/><td/><td>_DFFB9A05_C469_4ECB_91E8_7D4F3D251E41_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT59</td><td/><td/><td>_9E525349_BC27_4535_90C2_7DBF133CBA68_FILTER</td><td/><td/><td/><td/></row>
 		<row><td>ISX_DEFAULTCOMPONENT6</td><td/><td/><td>_275539C1_5D42_4C27_B781_84F7F6BC2E1E_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>ISX_DEFAULTCOMPONENT60</td><td/><td/><td>_DA02D558_03D2_4A9A_88B3_D3079A0EF05C_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>ISX_DEFAULTCOMPONENT61</td><td/><td/><td>_167CE5D4_B22A_4B8B_923F_282D8F7C1245_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>ISX_DEFAULTCOMPONENT62</td><td/><td/><td>_2DECBDD1_278F_475F_958B_95D590744038_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>ISX_DEFAULTCOMPONENT63</td><td/><td/><td>_56A7CA5A_ED95_4DDC_8C26_F93BDFEDFC66_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>ISX_DEFAULTCOMPONENT64</td><td/><td/><td>_A8415D4D_A2D4_43F1_870D_140D96DB52C0_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>ISX_DEFAULTCOMPONENT65</td><td/><td/><td>_D5C08996_3C69_4A61_AE54_92F0B2153A67_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>ISX_DEFAULTCOMPONENT66</td><td/><td/><td>_DDF3D131_3FEA_452C_843E_6FBB03D2F0B6_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>ISX_DEFAULTCOMPONENT67</td><td/><td/><td>_37C35164_C637_440C_A9E0_6F1970EEBAF7_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>ISX_DEFAULTCOMPONENT68</td><td/><td/><td>_75A45E89_90B3_40C9_A16C_363218A42F7E_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>ISX_DEFAULTCOMPONENT69</td><td/><td/><td>_41C50C1A_C821_402A_854B_3473DFE467EC_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT60</td><td/><td/><td>_33007EB9_8355_468F_98FE_EB906A279AEB_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT61</td><td/><td/><td>_EA291CA1_5DA1_439F_BFE5_2356A0EEC4DF_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT62</td><td/><td/><td>_E0B5FF5E_E2FE_4C37_B591_9409BD73A9DA_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT63</td><td/><td/><td>_553361B6_A1A0_4764_B521_BD69B800C2CA_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT64</td><td/><td/><td>_6A051C2E_DDFD_4851_AB43_AD9D37CC1DEB_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT65</td><td/><td/><td>_FEE1D879_A6A7_4886_BC60_703C1E6EC093_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT66</td><td/><td/><td>_FC6E95DA_7581_43F3_9E65_81976E58DDC4_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT67</td><td/><td/><td>_CB444AD6_1480_40F2_8CB6_6974CD2F4BE4_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT68</td><td/><td/><td>_2E28C28E_7BD7_43D5_9135_1C86193024FB_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT69</td><td/><td/><td>_91D8C78C_4AE3_4F3E_92A3_48460CAD8102_FILTER</td><td/><td/><td/><td/></row>
 		<row><td>ISX_DEFAULTCOMPONENT7</td><td/><td/><td>_D429F14F_87F9_46CB_9EBF_F9448E24AF63_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>ISX_DEFAULTCOMPONENT70</td><td/><td/><td>_491BCD8B_4684_40FE_B3FD_2D441F4D6475_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>ISX_DEFAULTCOMPONENT71</td><td/><td/><td>_C89CC09C_02D4_40D5_AB21_233690955274_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>ISX_DEFAULTCOMPONENT72</td><td/><td/><td>_6657C8FF_B094_4988_BCEF_02F488533D56_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>ISX_DEFAULTCOMPONENT73</td><td/><td/><td>_C0354C04_D0E9_47E2_99A8_0310705B4F5D_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>ISX_DEFAULTCOMPONENT74</td><td/><td/><td>_3D4E70A8_215E_4249_9957_FD89B0EBE0EB_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>ISX_DEFAULTCOMPONENT75</td><td/><td/><td>_FCD39469_5F7E_45DF_BD38_6EA9BBDBFC0F_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT70</td><td/><td/><td>_AC60F5F3_2EBC_4AF1_849D_033D98B8BF74_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT71</td><td/><td/><td>_C849C7D8_DEA2_49E0_A566_9BD1E3934993_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT72</td><td/><td/><td>_DFA07B17_5823_46E2_987C_4EE9034DD03D_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT73</td><td/><td/><td>_AD83009B_790D_4DB3_BEA6_28AA681264B9_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT74</td><td/><td/><td>_48F86D3C_A398_4DCA_B8A8_67A0003DDE3E_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>ISX_DEFAULTCOMPONENT75</td><td/><td/><td>_8D2AA53F_5FCC_41C2_B1A9_C17E75E3C35C_FILTER</td><td/><td/><td/><td/></row>
 		<row><td>ISX_DEFAULTCOMPONENT76</td><td/><td/><td>_00FA7F3D_A059_4426_9B72_2002A1EBDA23_FILTER</td><td/><td/><td/><td/></row>
 		<row><td>ISX_DEFAULTCOMPONENT77</td><td/><td/><td>_FDAC5979_8FCE_4505_BEDE_5A0AA24CD6A7_FILTER</td><td/><td/><td/><td/></row>
 		<row><td>ISX_DEFAULTCOMPONENT78</td><td/><td/><td>_3772A232_189F_4731_A731_BDCFFE38B59E_FILTER</td><td/><td/><td/><td/></row>
 		<row><td>ISX_DEFAULTCOMPONENT8</td><td/><td/><td>_A780DD23_9CB3_4AF3_A55F_6E99E44ADE4C_FILTER</td><td/><td/><td/><td/></row>
 		<row><td>ISX_DEFAULTCOMPONENT9</td><td/><td/><td>_2A72F614_CD08_40BB_93E3_6821B5CC4E31_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>OpenAL32.dll</td><td/><td/><td>_AA5D7A2F_98C4_4A0C_B7D2_934B76B9D4B8_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>glew32.dll</td><td/><td/><td>_73400AD4_826F_4FD7_851D_EA8F45DA7F1F_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>libeay32.dll</td><td/><td/><td>_917CC1FA_AA83_47AC_845F_89EBFFFDA6BA_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>luajit.dll</td><td/><td/><td>_9419FD6E_F09B_4827_81A4_1AEBE027765B_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>OpenAL32.dll</td><td/><td/><td>_D17F3341_6745_4087_B909_00EE857F3955_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>glew32.dll</td><td/><td/><td>_BC382E19_7154_48DE_B822_66DF0B11ECF8_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>luajit.dll</td><td/><td/><td>_58545E2D_CD3E_462E_BDF3_93D51C67669C_FILTER</td><td/><td/><td/><td/></row>
 		<row><td>otclient.Primary_Output2</td><td/><td/><td>_F37479D4_7AF8_4952_8E33_FCD3F924F306_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>physfs.dll</td><td/><td/><td>_18793CB8_E940_40BD_95D0_4C0B8F919737_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>physfs.dll</td><td/><td/><td>_E1506D4D_6E65_499A_B3AE_08FE212F6252_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>zlib1.dll</td><td/><td/><td>_AC4C0C84_60DC_49F4_8164_747F3B0B2546_FILTER</td><td/><td/><td/><td/></row>
 	</table>
 
 	<table name="ISCustomActionReference">
@@ -5135,7 +5135,7 @@ UwBpAG4AZwBsAGUASQBtAGEAZwBlAAEARQB4AHAAcgBlAHMAcwA=
 		<row><td>PROGMSG_IIS_ROLLBACKWEBSERVICEEXTENSIONS</td><td>##IDS_PROGMSG_IIS_ROLLBACKWEBSERVICEEXTENSIONS##</td><td/></row>
 		<row><td>ProductCode</td><td>{9289FC37-3909-476C-B6C9-59EFB1EA68F1}</td><td/></row>
 		<row><td>ProductName</td><td>BHS Client</td><td/></row>
-		<row><td>ProductVersion</td><td>1.00.0000</td><td/></row>
+		<row><td>ProductVersion</td><td>1.00.0001</td><td/></row>
 		<row><td>ProgressType0</td><td>install</td><td/></row>
 		<row><td>ProgressType1</td><td>Installing</td><td/></row>
 		<row><td>ProgressType2</td><td>installed</td><td/></row>

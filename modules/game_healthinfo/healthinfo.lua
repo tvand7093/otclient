@@ -20,7 +20,6 @@ Icons[65536] = { tooltip = tr('You are hungry'), path = '/images/game/states/hun
 healthInfoWindow = nil
 healthBar = nil
 manaBar = nil
-experienceBar = nil
 soulLabel = nil
 capLabel = nil
 healthTooltip = 'Your character health is %d out of %d.'
@@ -30,7 +29,6 @@ experienceTooltip = 'You have %d%% to advance to level %d.'
 function init()
   connect(LocalPlayer, { onHealthChange = onHealthChange,
                          onManaChange = onManaChange,
-                         onLevelChange = onLevelChange,
                          onStatesChange = onStatesChange,
                          onSoulChange = onSoulChange,
                          onFreeCapacityChange = onFreeCapacityChange })
@@ -44,7 +42,6 @@ function init()
   healthInfoWindow:disableResize()
   healthBar = healthInfoWindow:recursiveGetChildById('healthBar')
   manaBar = healthInfoWindow:recursiveGetChildById('manaBar')
-  experienceBar = healthInfoWindow:recursiveGetChildById('experienceBar')
   soulLabel = healthInfoWindow:recursiveGetChildById('soulLabel')
   capLabel = healthInfoWindow:recursiveGetChildById('capLabel')
 
@@ -57,7 +54,6 @@ function init()
     local localPlayer = g_game.getLocalPlayer()
     onHealthChange(localPlayer, localPlayer:getHealth(), localPlayer:getMaxHealth())
     onManaChange(localPlayer, localPlayer:getMana(), localPlayer:getMaxMana())
-    onLevelChange(localPlayer, localPlayer:getLevel(), localPlayer:getLevelPercent())
     onStatesChange(localPlayer, localPlayer:getStates(), 0)
     onSoulChange(localPlayer, localPlayer:getSoul())
     onFreeCapacityChange(localPlayer, localPlayer:getFreeCapacity())
@@ -69,7 +65,6 @@ end
 function terminate()
   disconnect(LocalPlayer, { onHealthChange = onHealthChange,
                             onManaChange = onManaChange,
-                            onLevelChange = onLevelChange,
                             onStatesChange = onStatesChange,
                             onSoulChange = onSoulChange,
                             onFreeCapacityChange = onFreeCapacityChange })
@@ -131,12 +126,6 @@ function onManaChange(localPlayer, mana, maxMana)
   manaBar:setValue(mana, 0, maxMana)
 end
 
-function onLevelChange(localPlayer, value, percent)
-  experienceBar:setText(percent .. '%')
-  experienceBar:setTooltip(tr(experienceTooltip, percent, value+1))
-  experienceBar:setPercent(percent)
-end
-
 function onSoulChange(localPlayer, soul)
   soulLabel:setText(tr('Soul') .. ': ' .. soul)
 end
@@ -167,12 +156,6 @@ function hideLabels()
   healthInfoWindow:setHeight(math.max(healthInfoWindow.minimizedHeight, healthInfoWindow:getHeight() - removeHeight))
 end
 
-function hideExperience()
-  local removeHeight = experienceBar:getMarginRect().height
-  experienceBar:setOn(false)
-  healthInfoWindow:setHeight(math.max(healthInfoWindow.minimizedHeight, healthInfoWindow:getHeight() - removeHeight))
-end
-
 function setHealthTooltip(tooltip)
   healthTooltip = tooltip
 
@@ -191,11 +174,3 @@ function setManaTooltip(tooltip)
   end
 end
 
-function setExperienceTooltip(tooltip)
-  experienceTooltip = tooltip
-
-  local localPlayer = g_game.getLocalPlayer()
-  if localPlayer then
-    experienceBar:setTooltip(tr(experienceTooltip, localPlayer:getLevelPercent(), localPlayer:getLevel()+1))
-  end
-end
