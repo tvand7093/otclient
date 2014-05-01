@@ -82,7 +82,7 @@ function init()
     if maximized then g_window.maximize() end
   end
 
-  g_window.setTitle(g_app.getName())
+  g_window.setTitle("Blackhoefstudios Client")
   g_window.setIcon('/images/clienticon')
 
   -- poll resize events
